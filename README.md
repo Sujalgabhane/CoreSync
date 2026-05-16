@@ -33,41 +33,17 @@ Built with a focus on **high information density, cinematic UI, and robust backe
 
 ## 🚀 Live Demo & Quick Start
 
-The application is configured to run out-of-the-box with cloud databases. No local database setup is required.
+The application is fully deployed to the cloud for immediate evaluation. No local setup or installation is required!
 
-### 1. Clone & Install
-```bash
-git clone <your-repo-url>
-cd "AtomBerg Hackathon(CoreSync)"
+### Access the Live Portal
+- **Frontend App (Vercel):** [https://coresync.vercel.app](https://coresync.vercel.app) *(Replace with your Vercel link!)*
+- **Backend API (Render):** `Live & Connected`
+- **Database:** `Supabase PostgreSQL (Live)`
+- **Caching:** `Upstash Redis (Live)`
 
-# Install backend dependencies
-cd backend
-npm install
+Simply navigate to the Frontend URL in any browser to start exploring CoreSync.
 
-# Install frontend dependencies
-cd ../frontend
-npm install
-```
-
-### 2. Start the Application
-You will need two terminal windows:
-
-**Terminal 1: Backend API**
-```bash
-cd backend
-npm run dev
-# Starts on http://localhost:4000
-```
-
-**Terminal 2: Frontend Dashboard**
-```bash
-cd frontend
-npm run dev
-# Starts on http://localhost:5173
-```
-
-### 3. Access the Portal
-Navigate to **http://localhost:5173** in your browser.
+*(If you wish to run the app locally for development, refer to the `backend/package.json` and `frontend/package.json` for standard Vite/Express run scripts).*
 
 ---
 
