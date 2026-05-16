@@ -1,13 +1,12 @@
 # CoreSync — Hackathon Submission Details
 
 ## 1. Live Hosted Demo URL
-**[Insert Your Vercel URL Here]** *(e.g., https://coresync.vercel.app)*
+**https://core-sync-beta.vercel.app/** 
 
 ## 2. Source Code Repository
 **[https://github.com/Sujalgabhane/CoreSync](https://github.com/Sujalgabhane/CoreSync)**
 
 ## 3. Architecture Diagram
-*(You can view this diagram on GitHub, or copy the code block below into [Mermaid Live Editor](https://mermaid.live/) to instantly download it as a PNG or PDF!)*
 
 ```mermaid
 graph TD
