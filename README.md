@@ -3,7 +3,7 @@
   <br>
   <h1>CoreSync</h1>
   <p><b>Enterprise-Grade Goal Setting & Tracking Portal</b></p>
-  <p><i>Built for the AtomBerg Hackathon 2025</i></p>
+  <p><i>Built for the AtomBerg Hackathon 2026</i></p>
 
   <p>
     <img src="https://img.shields.io/badge/React-18.x-blue?style=for-the-badge&logo=react" alt="React">
