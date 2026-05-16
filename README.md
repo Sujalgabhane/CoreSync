@@ -36,7 +36,7 @@ Built with a focus on **high information density, cinematic UI, and robust backe
 The application is fully deployed to the cloud for immediate evaluation. No local setup or installation is required!
 
 ### Access the Live Portal
-- **Frontend App (Vercel):** [https://coresync.vercel.app](https://coresync.vercel.app) *(Replace with your Vercel link!)*
+- **Frontend App (Vercel):** [https://core-sync-beta.vercel.app/](https://core-sync-beta.vercel.app/) 
 - **Backend API (Render):** `Live & Connected`
 - **Database:** `Supabase PostgreSQL (Live)`
 - **Caching:** `Upstash Redis (Live)`
