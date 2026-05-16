@@ -1,0 +1,291 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+/MediaBox [0 0 612 792]
+/Contents 7 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Courier
+>>
+endobj
+7 0 obj
+<<
+/Length 2850
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(CoreSync — Hackathon Submission Details) Tj
+ET
+
+BT
+/F1 14 Tf
+50 720 Td
+(1. Live Hosted Demo URL) Tj
+ET
+
+BT
+/F3 10 Tf
+50 700 Td
+(https://core-sync-beta.vercel.app/) Tj
+ET
+
+BT
+/F1 14 Tf
+50 670 Td
+(2. Source Code Repository) Tj
+ET
+
+BT
+/F3 10 Tf
+50 650 Td
+(https://github.com/Sujalgabhane/CoreSync) Tj
+ET
+
+BT
+/F1 14 Tf
+50 620 Td
+(3. Architecture Diagram) Tj
+ET
+
+BT
+/F5 9 Tf
+50 600 Td
+(Frontend Layer \(Vercel\):) Tj
+ET
+
+BT
+/F5 9 Tf
+60 585 Td
+(- React 18 + Vite UI) Tj
+ET
+
+BT
+/F5 9 Tf
+60 575 Td
+(- Zustand \(State Management\)) Tj
+ET
+
+BT
+/F5 9 Tf
+60 565 Td
+(- D3.js & Recharts \(Data Visualization\)) Tj
+ET
+
+BT
+/F5 9 Tf
+50 545 Td
+(Backend Layer \(Render Web Service\):) Tj
+ET
+
+BT
+/F5 9 Tf
+60 530 Td
+(- Node.js + Express API) Tj
+ET
+
+BT
+/F5 9 Tf
+60 520 Td
+(- JWT Auth Middleware) Tj
+ET
+
+BT
+/F5 9 Tf
+60 510 Td
+(- Zod Validation) Tj
+ET
+
+BT
+/F5 9 Tf
+60 500 Td
+(- Node-Cron \(Escalation Engine\)) Tj
+ET
+
+BT
+/F5 9 Tf
+60 490 Td
+(- ExcelJS \(In-Memory Stream\)) Tj
+ET
+
+BT
+/F5 9 Tf
+50 470 Td
+(Data Layer \(Cloud\):) Tj
+ET
+
+BT
+/F5 9 Tf
+60 455 Td
+(- Supabase \(PostgreSQL\)) Tj
+ET
+
+BT
+/F5 9 Tf
+60 445 Td
+(- Upstash Redis \(REST API\)) Tj
+ET
+
+BT
+/F5 9 Tf
+50 425 Td
+(External Services:) Tj
+ET
+
+BT
+/F5 9 Tf
+60 410 Td
+(- Gmail SMTP \(Nodemailer\)) Tj
+ET
+
+BT
+/F1 14 Tf
+50 380 Td
+(4. Role-Based Login Credentials) Tj
+ET
+
+BT
+/F5 8 Tf
+50 360 Td
+(Demo Credentials buttons are available on the login page for easy access) Tj
+ET
+
+BT
+/F2 10 Tf
+50 330 Td
+(Admin Account) Tj
+ET
+
+BT
+/F5 9 Tf
+50 315 Td
+(Email: admin@align.demo) Tj
+ET
+
+BT
+/F5 9 Tf
+50 302 Td
+(Password: Admin@123) Tj
+ET
+
+BT
+/F5 9 Tf
+50 289 Td
+(Evaluate: D3.js Cascade Tree, Analytics Charts, Escalation Logs, Audit Trail, Excel Export) Tj
+ET
+
+BT
+/F2 10 Tf
+50 265 Td
+(Manager Account) Tj
+ET
+
+BT
+/F5 9 Tf
+50 250 Td
+(Email: manager1@align.demo) Tj
+ET
+
+BT
+/F5 9 Tf
+50 237 Td
+(Password: Manager@123) Tj
+ET
+
+BT
+/F5 9 Tf
+50 224 Td
+(Evaluate: Approving/Returning goals, Team Momentum Dashboard, Check-in Reviews) Tj
+ET
+
+BT
+/F2 10 Tf
+50 200 Td
+(Employee Account) Tj
+ET
+
+BT
+/F5 9 Tf
+50 185 Td
+(Email: emp1@align.demo) Tj
+ET
+
+BT
+/F5 9 Tf
+50 172 Td
+(Password: Employee@123) Tj
+ET
+
+BT
+/F5 9 Tf
+50 159 Td
+(Evaluate: Creating goals, live 100% weightage validation, logging quarterly achievements) Tj
+ET
+
+BT
+/F5 8 Tf
+50 120 Td
+(Generated: 2026-05-16) Tj
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+0000000321 00000 n 
+0000000401 00000 n 
+0000000480 00000 n 
+trailer
+<<
+/Size 8
+/Root 1 0 R
+>>
+startxref
+3381
+%%EOF
